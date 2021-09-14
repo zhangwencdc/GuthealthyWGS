@@ -1,8 +1,8 @@
 # GuthealthyWGS
 A pipeline for evaluating the human health status associated with the microbiome and DRM pattern in the faecal samples
-# GuthealthyWGS version2.0
-## 2021-9-14
-## author：Wen Zhang, zhangwen@icdc.cn
+ GuthealthyWGS version2.0
+ 2021-9-14
+ author：Wen Zhang, zhangwen@icdc.cn
 
 ## 1、Docker download
 
